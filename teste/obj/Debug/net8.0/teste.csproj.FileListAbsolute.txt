@@ -12,3 +12,4 @@ C:\Users\vitor\Desktop\Pessoal\dotnet_learning\teste\obj\Debug\net8.0\refint\tes
 C:\Users\vitor\Desktop\Pessoal\dotnet_learning\teste\obj\Debug\net8.0\teste.pdb
 C:\Users\vitor\Desktop\Pessoal\dotnet_learning\teste\obj\Debug\net8.0\teste.genruntimeconfig.cache
 C:\Users\vitor\Desktop\Pessoal\dotnet_learning\teste\obj\Debug\net8.0\ref\teste.dll
+C:\Users\vitor\Desktop\Pessoal\dotnet_learning\teste\obj\Debug\net8.0\teste.sourcelink.json
